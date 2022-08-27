@@ -72,6 +72,6 @@ spec:
     - namespace: default
       name: alertmanager
       port: alertmanager
-  additionalScrapeConfigs:
-    name: additional-scrape-configs
-    key: prometheus-additional.yaml
+#  additionalScrapeConfigs:
+#    name: additional-scrape-configs
+#    key: prometheus-additional.yaml
